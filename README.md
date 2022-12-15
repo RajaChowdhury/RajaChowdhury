@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajaChowdhury
 - 👀 I’m interested in Data Science and wants to pursue my career in this domain
-- 🌱 I’m currently learning Python, Sql, and Machine Learning 
-- 💞️ I’m looking to collaborate on any project from this domain to learn and grow.
+- 🌱 I’m currently learning Python, Sql, MS Office and Machine Learning 
+- 💞️ I’m looking to collaborate on any project from this domain in order to learn and grow.
 - 📫 How to reach me gmail-rajachowdhury2468@gmail.com
 
 <!---
