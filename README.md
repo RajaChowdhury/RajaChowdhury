@@ -1,11 +1,11 @@
 [![MasterHead](https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/0x0.jpg?format=jpg&width=1200)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Raja Chowdhury</h1>
-<h3 align="center">A passionate Data Science Aspirant</h3>
+<h3 align="center">A Passionate Data Science Aspirant</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 
-- 🌱 I’m currently pursuing **Data Science**
+🌱 I’m currently pursuing **Data Science**
 
-- 📝 I regularly write articles on [https://medium.com/@rajachowdhury2468](https://medium.com/@rajachowdhury2468)
+📝 I regularly write articles on [https://medium.com/@rajachowdhury2468](https://medium.com/@rajachowdhury2468)
 
 - 📫 How to reach me **rajachowdhury2468@gmail.com**
 
