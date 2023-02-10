@@ -1,17 +1,17 @@
 [![MasterHead](https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/0x0.jpg?format=jpg&width=1200)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Raja Chowdhury</h1>
-<h3 align="center">A Passionate Data Science Aspirant</h3>
+<h3 align="center">Data Science Aspirant</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
      
 🚀 About Me
      
-Dedicated and analytically minded data science aspirant. Proficient in handling large datasets and implementing data-driven solutions to complex problems, with a passion for uncovering insights and hidden trends. Equipped with hands-on experience in data analysis, visualization techniques and machine learning, as well as a solid understanding of data structures and programming with Python. Adept at working in a team environment, with a team-oriented attitude and a willingness to learn and grow.
+Dedicated and analytically minded data science aspirant. Proficient in handling large datasets and implementing data-driven solutions to complex business problems, with a passion for uncovering insights and hidden trends. Equipped with hands-on experience in data analysis, visualization techniques and machine learning, as well as a solid understanding of data structures, algorithms and programming with Python. Adept at working in a team environment, with a team-oriented attitude and a willingness to learn and grow.
 
 📝 I wrote blogs on [https://medium.com/@rajachowdhury2468](https://medium.com/@rajachowdhury2468)
 
-📫 Can reach me out at **rajachowdhury2468@gmail.com**
+📫 Can reach me out at [**rajachowdhury2468@gmail.com**](https://rajachowdhury2468@gmail.com)
 
-📄 Know about my experiences [https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link](https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link)
+📄 Know about my experiences and work [https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link](https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link)
 
 🛠 Skills: **Python, SQL, Machine Learning, MS Office, Tableau, Power BI**
 
