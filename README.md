@@ -11,9 +11,9 @@ Dedicated and analytically minded data science aspirant. Proficient in handling 
 
 📫 Can reach me out at [**rajachowdhury2468@gmail.com**](https://rajachowdhury2468@gmail.com)
 
-📄 Know about my experiences and work [https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link](https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link)
+📄 Know about my qualifications and expriences [https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link](https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link)
 
-🛠 Skills: **Python, SQL, Machine Learning, MS Office, Tableau, Power BI**
+🛠 Key Skills: **Python, SQL, Machine Learning, MS Office, Tableau, Power BI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
