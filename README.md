@@ -9,11 +9,13 @@ Dedicated and analytically minded data science aspirant. Proficient in handling 
 
 📝 I wrote blogs on [https://medium.com/@rajachowdhury2468](https://medium.com/@rajachowdhury2468)
 
-📫 Can reach me out at [**rajachowdhury2468@gmail.com**](https://rajachowdhury2468@gmail.com)
+📫 Can reach me out at [**rajachowdhuryoffice@gmail.com**](https://rajachowdhuryoffice@gmail.com)
 
 📄 Know about my qualifications and expriences [https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link](https://drive.google.com/file/d/1TCvP8g4VjDcwdBrBeKCV4_3rA1D2BRZe/view?usp=share_link)
 
-🛠 Key Skills: **Python, SQL, Machine Learning, MS Office, Tableau, Power BI**
+🛠 Key Skills: **Python, SQL, Machine Learning, MS Office, Tableau, Power BI, Looker Studio**
+     
+**Ready to work collaborate on any data science projects**      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
