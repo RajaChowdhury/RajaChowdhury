@@ -15,7 +15,7 @@ Dedicated and analytically minded data science aspirant. Proficient in handling 
 
 🛠 Key Skills: **Python, SQL, Machine Learning, MS Office, Tableau, Power BI, Looker Studio**
      
-**Ready to work collaborate on any data science projects**      
+**Ready to collaboratively work on any data science projects**      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
