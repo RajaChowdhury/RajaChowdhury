@@ -12,10 +12,12 @@ Dedicated and analytically minded data science aspirant. Proficient in handling 
 📫 Can reach me out at [**rajachowdhuryoffice@gmail.com**](https://rajachowdhuryoffice@gmail.com)
 
 📄 Know about my qualifications, expriences and projects : 
+
 Data Analyst resume : https://drive.google.com/file/d/1n0dP26OBz7UnndM55on0AN3Q5fDHvFmS/view?usp=sharing
+
 Data Science resume : https://drive.google.com/file/d/17FJgd5JgVqFLnLjxKCJXH6ypjg3SssqQ/view?usp=sharing
 
-🛠 Key Skills: **Python, SQL, Machine Learning, MS Office, Tableau, Power BI, Looker Studio**
+🛠 Key Skills: **Python, SQL, Machine Learning, MS Excel, Tableau, Power BI, Looker Studio**
      
 **Ready to collaboratively work on any data science projects**      
 
