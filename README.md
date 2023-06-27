@@ -23,7 +23,7 @@ Data Science resume : https://drive.google.com/file/d/17FJgd5JgVqFLnLjxKCJXH6ypj
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rajachowdhury1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajachowdhury1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajachowdhury1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rajachowdhury1" height="30" width="40" /></a>
 <a href="https://medium.com/@rajachowdhury2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajachowdhury2468" height="30" width="40" /></a>
 </p>
 
